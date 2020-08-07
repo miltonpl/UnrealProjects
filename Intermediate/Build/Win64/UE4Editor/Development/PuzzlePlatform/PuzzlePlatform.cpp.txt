@@ -1,0 +1,2 @@
+D:\Unreal\PuzzlePlatform\Intermediate\Build\Win64\UE4Editor\Development\PuzzlePlatform\Definitions.PuzzlePlatform.h
+D:\Unreal\PuzzlePlatform\Source\PuzzlePlatform\PuzzlePlatform.h
